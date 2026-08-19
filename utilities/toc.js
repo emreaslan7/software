@@ -228,6 +228,12 @@ function updateTOC(url, theme) {
                 "Ajan Zihniyeti: LLM'ler, Araçlar ve Bellek",
                 theme
               ),
+              SubHeading(
+                "03",
+                "/tr/ai-agents/day-03.html",
+                "Popüler Yapay Zeka Ajan Framework'leri",
+                theme
+              ),
             ],
             true
           )
