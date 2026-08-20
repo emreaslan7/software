@@ -234,6 +234,18 @@ function updateTOC(url, theme) {
                 "Popüler Yapay Zeka Ajan Framework'leri",
                 theme
               ),
+              SubHeading(
+                "04",
+                "/tr/ai-agents/day-04.html",
+                "Araştırma Asistanı Ajanı İnşası",
+                theme
+              ),
+              SubHeading(
+                "05",
+                "/tr/ai-agents/day-05.html",
+                "Ajan Mimarisi: ReAct ve Kendi Kendini Düzeltme",
+                theme
+              ),
             ],
             true
           )
