@@ -197,6 +197,25 @@ function updateTOC(url, theme) {
             true
           )
         ),
+        SubHeading(
+          "Phase 2",
+          "",
+          "Core Agent Capabilities",
+          theme,
+          "13px",
+          "bold",
+          SubHeadingList(
+            [
+              SubHeading(
+                "06",
+                "/ai-agents/day-06.html",
+                "Working with Tools & APIs",
+                theme
+              ),
+            ],
+            true
+          )
+        ),
       ])}
     </div>
   `;
@@ -244,6 +263,25 @@ function updateTOC(url, theme) {
                 "05",
                 "/tr/ai-agents/day-05.html",
                 "Ajan Mimarisi: ReAct ve Kendi Kendini Düzeltme",
+                theme
+              ),
+            ],
+            true
+          )
+        ),
+        SubHeading(
+          "Aşama 2",
+          "",
+          "Çekirdek Ajan Yetenekleri",
+          theme,
+          "13px",
+          "bold",
+          SubHeadingList(
+            [
+              SubHeading(
+                "06",
+                "/tr/ai-agents/day-06.html",
+                "Araçlar ve API'lar ile Çalışmak",
                 theme
               ),
             ],
