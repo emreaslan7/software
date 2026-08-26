@@ -212,6 +212,12 @@ function updateTOC(url, theme) {
                 "Working with Tools & APIs",
                 theme
               ),
+              SubHeading(
+                "07",
+                "/ai-agents/day-07.html",
+                "Memory & State Management",
+                theme
+              ),
             ],
             true
           )
@@ -282,6 +288,12 @@ function updateTOC(url, theme) {
                 "06",
                 "/tr/ai-agents/day-06.html",
                 "Araçlar ve API'lar ile Çalışmak",
+                theme
+              ),
+              SubHeading(
+                "07",
+                "/tr/ai-agents/day-07.html",
+                "Bellek ve Durum Yönetimi",
                 theme
               ),
             ],

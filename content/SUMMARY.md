@@ -12,6 +12,7 @@
 - [Day 04: Building a Research Assistant Agent](ai-agents/day-04.md)
 - [Day 05: Agent Architecture: ReAct, MRKL & Self-Correction](ai-agents/day-05.md)
 - [Day 06: Working with Tools and APIs: Extending Agent Capabilities](ai-agents/day-06.md)
+- [Day 07: Memory and State Management in Autonomous Agents](ai-agents/day-07.md)
 
 ---
 
@@ -27,4 +28,6 @@
 - [Day 04: Araştırma Asistanı Ajanı İnşası](tr/ai-agents/day-04.md)
 - [Day 05: Ajan Mimarisi: ReAct, MRKL ve Kendi Kendini Düzeltme](tr/ai-agents/day-05.md)
 - [Day 06: Araçlar ve API'lar ile Çalışmak: Ajan Yeteneklerini Genişletmek](tr/ai-agents/day-06.md)
+- [Day 07: Ajanlarda Bellek ve Durum Yönetimi](tr/ai-agents/day-07.md)
+
 
