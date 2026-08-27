@@ -218,6 +218,12 @@ function updateTOC(url, theme) {
                 "Memory & State Management",
                 theme
               ),
+              SubHeading(
+                "08",
+                "/ai-agents/day-08.html",
+                "Building Multi-Agent Systems",
+                theme
+              ),
             ],
             true
           )
@@ -294,6 +300,12 @@ function updateTOC(url, theme) {
                 "07",
                 "/tr/ai-agents/day-07.html",
                 "Bellek ve Durum Yönetimi",
+                theme
+              ),
+              SubHeading(
+                "08",
+                "/tr/ai-agents/day-08.html",
+                "Çoklu Ajan Sistemleri İnşası",
                 theme
               ),
             ],
