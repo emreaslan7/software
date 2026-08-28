@@ -224,6 +224,12 @@ function updateTOC(url, theme) {
                 "Building Multi-Agent Systems",
                 theme
               ),
+              SubHeading(
+                "09",
+                "/ai-agents/day-09.html",
+                "Evaluating & Debugging AI Agents",
+                theme
+              ),
             ],
             true
           )
@@ -306,6 +312,12 @@ function updateTOC(url, theme) {
                 "08",
                 "/tr/ai-agents/day-08.html",
                 "Çoklu Ajan Sistemleri İnşası",
+                theme
+              ),
+              SubHeading(
+                "09",
+                "/tr/ai-agents/day-09.html",
+                "Ajanları Değerlendirme ve Hata Ayıklama",
                 theme
               ),
             ],

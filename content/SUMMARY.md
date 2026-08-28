@@ -14,6 +14,7 @@
 - [Day 06: Working with Tools and APIs: Extending Agent Capabilities](ai-agents/day-06.md)
 - [Day 07: Memory and State Management in Autonomous Agents](ai-agents/day-07.md)
 - [Day 08: Building a Multi-Agent System: Collaborative Agents](ai-agents/day-08.md)
+- [Day 09: Evaluating and Debugging AI Agents](ai-agents/day-09.md)
 
 ---
 
@@ -31,5 +32,7 @@
 - [Day 06: Araçlar ve API'lar ile Çalışmak: Ajan Yeteneklerini Genişletmek](tr/ai-agents/day-06.md)
 - [Day 07: Ajanlarda Bellek ve Durum Yönetimi](tr/ai-agents/day-07.md)
 - [Day 08: Çoklu Ajan Sistemleri İnşası: İş Birlikli Ajanlar](tr/ai-agents/day-08.md)
+- [Day 09: Ajanları Değerlendirme ve Hata Ayıklama](tr/ai-agents/day-09.md)
+
 
 
