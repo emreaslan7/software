@@ -15,6 +15,7 @@
 - [Day 07: Memory and State Management in Autonomous Agents](ai-agents/day-07.md)
 - [Day 08: Building a Multi-Agent System: Collaborative Agents](ai-agents/day-08.md)
 - [Day 09: Evaluating and Debugging AI Agents](ai-agents/day-09.md)
+- [Day 10: Capstone Project: Personal AI Agent](ai-agents/day-10.md)
 
 ---
 
@@ -33,6 +34,8 @@
 - [Day 07: Ajanlarda Bellek ve Durum Yönetimi](tr/ai-agents/day-07.md)
 - [Day 08: Çoklu Ajan Sistemleri İnşası: İş Birlikli Ajanlar](tr/ai-agents/day-08.md)
 - [Day 09: Ajanları Değerlendirme ve Hata Ayıklama](tr/ai-agents/day-09.md)
+- [Day 10: Capstone Projesi: Kişisel AI Ajanı İnşası](tr/ai-agents/day-10.md)
+
 
 
 

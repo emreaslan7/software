@@ -230,6 +230,12 @@ function updateTOC(url, theme) {
                 "Evaluating & Debugging AI Agents",
                 theme
               ),
+              SubHeading(
+                "10",
+                "/ai-agents/day-10.html",
+                "Capstone: Personal AI Agent",
+                theme
+              ),
             ],
             true
           )
@@ -318,6 +324,12 @@ function updateTOC(url, theme) {
                 "09",
                 "/tr/ai-agents/day-09.html",
                 "Ajanları Değerlendirme ve Hata Ayıklama",
+                theme
+              ),
+              SubHeading(
+                "10",
+                "/tr/ai-agents/day-10.html",
+                "Capstone: Kişisel AI Ajanı",
                 theme
               ),
             ],
