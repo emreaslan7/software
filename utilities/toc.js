@@ -240,6 +240,25 @@ function updateTOC(url, theme) {
             true
           )
         ),
+        SubHeading(
+          "Phase 3",
+          "",
+          "Advanced Fundamentals",
+          theme,
+          "13px",
+          "bold",
+          SubHeadingList(
+            [
+              SubHeading(
+                "11",
+                "/ai-agents/day-11.html",
+                "Advanced Tool Use & Resilience",
+                theme
+              ),
+            ],
+            true
+          )
+        ),
       ])}
     </div>
   `;
@@ -330,6 +349,25 @@ function updateTOC(url, theme) {
                 "10",
                 "/tr/ai-agents/day-10.html",
                 "Capstone: Kişisel AI Ajanı",
+                theme
+              ),
+            ],
+            true
+          )
+        ),
+        SubHeading(
+          "Aşama 3",
+          "",
+          "İleri Düzey Temeller",
+          theme,
+          "13px",
+          "bold",
+          SubHeadingList(
+            [
+              SubHeading(
+                "11",
+                "/tr/ai-agents/day-11.html",
+                "İleri Düzey Araç Kullanımı ve Dayanıklılık",
                 theme
               ),
             ],
