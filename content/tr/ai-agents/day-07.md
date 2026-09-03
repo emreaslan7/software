@@ -225,7 +225,7 @@ class HybridMemoryEngine:
 
 ## 6. Resmi Challenge'lar ve Mimari Çözümler
 
-Aşağıda Day 07 müfredatının resmi challenge soruları ve derinlemesine mimari çözümleri yer almaktadır.
+Aşağıda Bellek ve Durum Yönetimi mimarisine ait resmi challenge soruları ve derinlemesine çözümleri yer almaktadır.
 
 <br/>
 

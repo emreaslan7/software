@@ -151,7 +151,7 @@ When architecting a new AI agent system, follow this decision tree to select the
 
 1. **The Abstraction Trap:** Convenience wrappers (e.g. `agent.run()`) obscure token consumption, retries, and raw prompt structures. In production, prefer explicit graph nodes or raw tool dispatchers over magic one-liners.
 2. **Hybrid Composition:** Enterprise systems rarely use one framework in isolation. A standard pattern is pairing **LlamaIndex** as the data ingestion/retrieval engine with **LangGraph** as the state machine orchestrator.
-3. **When to Write Vanilla Code:** If an agent only requires 2–3 deterministic API tools and basic memory, writing a lightweight, zero-dependency Python class (as built in Day 02) avoids framework deprecation cycles and dependency vulnerabilities.
+3. **When to Write Vanilla Code:** If an agent only requires 2–3 deterministic API tools and basic memory, writing a lightweight, zero-dependency Python class (as built in the core agent loop architecture) avoids framework deprecation cycles and dependency vulnerabilities.
 
 <br/>
 <br/>

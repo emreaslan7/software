@@ -255,6 +255,12 @@ function updateTOC(url, theme) {
                 "Advanced Tool Use & Resilience",
                 theme
               ),
+              SubHeading(
+                "12",
+                "/ai-agents/day-12.html",
+                "Human-in-the-Loop Collaboration",
+                theme
+              ),
             ],
             true
           )
@@ -368,6 +374,12 @@ function updateTOC(url, theme) {
                 "11",
                 "/tr/ai-agents/day-11.html",
                 "İleri Düzey Araç Kullanımı ve Dayanıklılık",
+                theme
+              ),
+              SubHeading(
+                "12",
+                "/tr/ai-agents/day-12.html",
+                "İnsan Denetiminde Ajan İş Birliği (HITL)",
                 theme
               ),
             ],

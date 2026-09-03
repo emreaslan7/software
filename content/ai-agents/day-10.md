@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-Across Days 01 through 09, we formalized the foundational primitives of autonomous systems: multi-step ReAct reasoning loops, typed tool calling schemas, layered working and episodic memory structures, multi-agent coordination topologies, and trajectory observability with self-healing guardrails.
+Throughout the foundational chapters of autonomous systems engineering, we formalized the core primitives: multi-step ReAct reasoning loops, typed tool calling schemas, layered working and episodic memory structures, multi-agent coordination topologies, and trajectory observability with self-healing guardrails.
 
 This Capstone chapter synthesizes these architectural components into a complete, production-grade autonomous agent: **Cortisol Slayer**. 
 

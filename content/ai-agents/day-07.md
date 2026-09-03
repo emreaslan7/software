@@ -225,7 +225,7 @@ class HybridMemoryEngine:
 
 ## 6. Official Challenges & Architectural Solutions
 
-Below are the official engineering challenges and in-depth architectural solutions for Day 07.
+Below are the official engineering challenges and in-depth architectural solutions for Memory & State Management.
 
 <br/>
 

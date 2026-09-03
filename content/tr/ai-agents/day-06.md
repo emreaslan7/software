@@ -304,7 +304,7 @@ class ToolDispatcher:
 
 ## 6. Resmi Challenge'lar ve Mimari Çözümler
 
-Aşağıda Day 06 müfredatının resmi challenge soruları ve derinlemesine mimari çözümleri yer almaktadır.
+Aşağıda Araç Entegrasyonu ve API Yeteneklerini Genişletme mimarisine ait resmi challenge soruları ve derinlemesine çözümleri yer almaktadır.
 
 <br/>
 

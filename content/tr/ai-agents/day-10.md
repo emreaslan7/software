@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-Day 01'den Day 09'a kadar otonom sistemlerin tüm temel yapı taşlarını inşa ettik: çok adımlı ReAct akıl yürütme döngüleri, tipli araç çağırma şemaları, katmanlı çalışma ve epizodik bellek yapıları, çoklu ajan koordinasyon topolojileri ve kendi kendini onaran koruma katmanlarıyla yörünge gözlemlenebilirliği.
+Otonom sistemler mimarisi boyunca temel yapı taşlarını adım adım inşa ettik: çok adımlı ReAct akıl yürütme döngüleri, tipli araç çağırma şemaları, katmanlı çalışma ve epizodik bellek yapıları, çoklu ajan koordinasyon topolojileri ve kendi kendini onaran koruma katmanlarıyla yörünge gözlemlenebilirliği.
 
 Bu Capstone bölümü, öğrenilen tüm bu mimari bileşenleri üretime hazır, eksiksiz bir kişisel otonom ajanda birleştiriyor: **Cortisol Slayer**.
 

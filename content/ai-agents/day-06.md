@@ -304,7 +304,7 @@ class ToolDispatcher:
 
 ## 6. Official Challenges & Architectural Solutions
 
-Below are the official engineering challenges and in-depth architectural solutions for Day 06.
+Below are the official engineering challenges and in-depth architectural solutions for Tool Integration & API Extension.
 
 <br/>
 

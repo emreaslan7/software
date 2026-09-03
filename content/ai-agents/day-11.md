@@ -1,11 +1,11 @@
-# Day 11: Advanced Tool Use — Dynamic Tools, Tool Routing, and Error Handling
+# Advanced Tool Use — Dynamic Tools, Tool Routing, and Error Handling
 
 <!-- toc -->
 
 <br/>
 <br/>
 
-In Phase 1 and Phase 2 (Days 01 through 10), we explored static tool calling schemas, deterministic function calling, ReAct cycles, stateful memory management, and multi-agent coordination.
+In the preceding foundational chapters, we explored static tool calling schemas, deterministic function calling, ReAct cycles, stateful memory management, and multi-agent coordination.
 
 As autonomous systems transition into enterprise production, a fundamental scaling boundary emerges: **Static Tool Saturation**. Ingestion of dozens or hundreds of raw OpenAPI function schemas directly into the prompt context window degrades Time-To-First-Token (TTFT) latency, exhausts token budgets, and drastically inflates tool hallucination and misrouting rates. Furthermore, distributed downstream tools are inherently flaky—frequently exhibiting network timeouts, HTTP `429 Rate Limit` bottlenecks, and unexpected schema mutations.
 

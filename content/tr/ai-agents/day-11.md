@@ -1,11 +1,11 @@
-# Day 11: İleri Düzey Araç Kullanımı — Dinamik Araçlar, Araç Yönlendirme ve Hata Yönetimi
+# İleri Düzey Araç Kullanımı — Dinamik Araçlar, Araç Yönlendirme ve Hata Yönetimi
 
 <!-- toc -->
 
 <br/>
 <br/>
 
-Aşama 1 ve Aşama 2 boyunca (1–10. Günler), statik araç çağırma şemalarını, deterministik fonksiyon çağrımlarını, ReAct döngülerini, durum bilgisi tutan bellek yönetimini ve çoklu ajan koordinasyonunu inceledik.
+Önceki temel bölümler boyunca statik araç çağırma şemalarını, deterministik fonksiyon çağrımlarını, ReAct döngülerini, durum bilgisi tutan bellek yönetimini ve çoklu ajan koordinasyonunu inceledik.
 
 Otonom sistemler kurumsal prodüksiyon seviyesine geçerken temel bir ölçeklenme darboğazı ile karşılaşılır: **Statik Araç Doygunluğu (Static Tool Saturation)**. Onlarca veya yüzlerce ham OpenAPI fonksiyon şemasını doğrudan istemin bağlam penceresine (context window) yüklemek; ilk token gecikmesini (TTFT) artırır, token bütçesini tüketir ve modelin yanlış araç seçme (misrouting / hallucination) oranını ciddi biçimde yükseltir. Dahası, harici dağıtık servisler doğası gereği kırılgandır (flaky); ağ zaman aşımları (`Timeout`), HTTP `429 Rate Limit` darboğazları ve beklenmeyen şema değişiklikleri sıkça yaşanır.
 

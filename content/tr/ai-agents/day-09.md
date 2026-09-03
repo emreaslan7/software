@@ -340,7 +340,7 @@ flowchart TD
 
 ## 5. İnteraktif Challenge ve Derin Mimari Çözümler
 
-Aşağıdaki bölümde günün temel değerlendirme ve hata ayıklama senaryolarına ait derin mimari çözümler yer almaktadır.
+Aşağıdaki bölümde temel değerlendirme, gözlemlenebilirlik ve hata ayıklama senaryolarına ait derin mimari çözümler yer almaktadır.
 
 <br/>
 

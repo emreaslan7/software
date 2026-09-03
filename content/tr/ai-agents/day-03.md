@@ -151,7 +151,7 @@ Yeni bir ajan mimarisi tasarlarken aşağıdaki karar ağacı takip edilmelidir:
 
 1. **Soyutlama Tuzağı (The Abstraction Trap):** Tek satırlık yardımcı fonksiyonlar (`agent.run()`) token tüketimini ve prompt yapısını gizler. Üretim ortamlarında sihirli tek satırlar yerine açık çizge düğümleri veya saf araç sevk mekanizmaları tercih edilmelidir.
 2. **Hibrit Mimari:** Kurumsal sistemlerde genellikle tek bir framework kullanılmaz. En yaygın başarılı model; **LlamaIndex**'in veri getirme/RAG motoru olarak, **LangGraph**'ın ise karar ve durum makinesi orkestratörü olarak birlikte kullanılmasıdır.
-3. **Ne Zaman Sıfırdan Kod Yazılmalı?:** Ajan yalnızca 2–3 deterministik API aracı ve temel bellek gerektiriyorsa, Day 02'de geliştirdiğimiz gibi harici bağımlılığı olmayan minimal bir Python sınıfı yazmak sistem kararlılığını artırır ve kütüphane kırılmalarını önler.
+3. **Ne Zaman Sıfırdan Kod Yazılmalı?:** Ajan yalnızca 2–3 deterministik API aracı ve temel bellek gerektiriyorsa, çekirdek ajan döngüsü mimarisinde geliştirdiğimiz gibi harici bağımlılığı olmayan minimal bir Python sınıfı yazmak sistem kararlılığını artırır ve kütüphane kırılmalarını önler.
 
 <br/>
 <br/>
