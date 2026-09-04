@@ -261,6 +261,12 @@ function updateTOC(url, theme) {
                 "Human-in-the-Loop Collaboration",
                 theme
               ),
+              SubHeading(
+                "13",
+                "/ai-agents/day-13.html",
+                "Agent Safety & Guardrails",
+                theme
+              ),
             ],
             true
           )
@@ -380,6 +386,12 @@ function updateTOC(url, theme) {
                 "12",
                 "/tr/ai-agents/day-12.html",
                 "İnsan Denetiminde Ajan İş Birliği (HITL)",
+                theme
+              ),
+              SubHeading(
+                "13",
+                "/tr/ai-agents/day-13.html",
+                "Ajan Güvenliği ve Guardrails",
                 theme
               ),
             ],

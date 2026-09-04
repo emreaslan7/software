@@ -18,6 +18,7 @@
 - [Capstone Project: Personal AI Agent](ai-agents/day-10.md)
 - [Advanced Tool Use: Dynamic Tools and Error Handling](ai-agents/day-11.md)
 - [Human-in-the-Loop (HITL) for Agent Collaboration](ai-agents/day-12.md)
+- [Agent Safety: Guardrails and Content Moderation](ai-agents/day-13.md)
 
 ---
 
@@ -39,6 +40,7 @@
 - [Capstone Projesi: Kişisel AI Ajanı İnşası](tr/ai-agents/day-10.md)
 - [İleri Düzey Araç Kullanımı: Dinamik Araçlar ve Hata Yönetimi](tr/ai-agents/day-11.md)
 - [İnsan Denetiminde Ajan İş Birliği (Human-in-the-Loop - HITL)](tr/ai-agents/day-12.md)
+- [Ajan Güvenliği: Guardrails ve İçerik Moderasyonu](tr/ai-agents/day-13.md)
 
 
 
