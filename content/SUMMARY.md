@@ -19,6 +19,7 @@
 - [Advanced Tool Use: Dynamic Tools and Error Handling](ai-agents/day-11.md)
 - [Human-in-the-Loop (HITL) for Agent Collaboration](ai-agents/day-12.md)
 - [Agent Safety: Guardrails and Content Moderation](ai-agents/day-13.md)
+- [Introduction to Fine-Tuning for Agentic Behavior](ai-agents/day-14.md)
 
 ---
 
@@ -41,6 +42,7 @@
 - [İleri Düzey Araç Kullanımı: Dinamik Araçlar ve Hata Yönetimi](tr/ai-agents/day-11.md)
 - [İnsan Denetiminde Ajan İş Birliği (Human-in-the-Loop - HITL)](tr/ai-agents/day-12.md)
 - [Ajan Güvenliği: Guardrails ve İçerik Moderasyonu](tr/ai-agents/day-13.md)
+- [Ajan Davranışları İçin İnce Ayara Giriş (Fine-Tuning)](tr/ai-agents/day-14.md)
 
 
 

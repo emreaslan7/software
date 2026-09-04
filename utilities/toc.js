@@ -267,6 +267,12 @@ function updateTOC(url, theme) {
                 "Agent Safety & Guardrails",
                 theme
               ),
+              SubHeading(
+                "14",
+                "/ai-agents/day-14.html",
+                "Fine-Tuning for Agentic Behavior",
+                theme
+              ),
             ],
             true
           )
@@ -392,6 +398,12 @@ function updateTOC(url, theme) {
                 "13",
                 "/tr/ai-agents/day-13.html",
                 "Ajan Güvenliği ve Guardrails",
+                theme
+              ),
+              SubHeading(
+                "14",
+                "/tr/ai-agents/day-14.html",
+                "Ajan Davranışları İçin İnce Ayar",
                 theme
               ),
             ],
