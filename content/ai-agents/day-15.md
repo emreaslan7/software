@@ -100,28 +100,28 @@ Given two dense vectors $u, v \in \mathbb{R}^d$:
 Measures the cosine of the angle between two vectors, prioritizing direction over vector magnitude:
 
 $$
-S_{\cos}(u, v) = \frac{u \cdot v}{\|u\|_2 \|v\|_2} = \frac{\sum_{i=1}^d u_i v_i}{\sqrt{\sum_{i=1}^d u_i^2} \sqrt{\sum_{i=1}^d v_i^2}}
+S\_{\cos}(u, v) = \frac{u \cdot v}{\Vert u \Vert\_2 \Vert v \Vert\_2} = \frac{\sum\_{i=1}^d u\_i v\_i}{\sqrt{\sum\_{i=1}^d u\_i^2} \sqrt{\sum\_{i=1}^d v\_i^2}}
 $$
 
-Cosine distance is bounded: $D_{\cos}(u, v) = 1 - S_{\cos}(u, v) \in [0, 2]$. When vectors are $L_2$-normalized ($\|u\|_2 = 1, \|v\|_2 = 1$), cosine similarity simplifies directly to the inner product:
+Cosine distance is bounded: $D\_{\cos}(u, v) = 1 - S\_{\cos}(u, v) \in [0, 2]$. When vectors are $L\_2$-normalized ($\Vert u \Vert\_2 = 1, \Vert v \Vert\_2 = 1$), cosine similarity simplifies directly to the inner product:
 
 $$
-S_{\cos}(u, v) = u \cdot v = \sum_{i=1}^d u_i v_i
+S\_{\cos}(u, v) = u \cdot v = \sum\_{i=1}^d u\_i v\_i
 $$
 
-#### 2. Euclidean Distance ($L_2$ Norm)
+#### 2. Euclidean Distance ($L\_2$ Norm)
 Measures the straight-line geometric distance between two coordinate points:
 
 $$
-D_{L2}(u, v) = \|u - v\|_2 = \sqrt{\sum_{i=1}^d (u_i - v_i)^2}
+D\_{L2}(u, v) = \Vert u - v \Vert\_2 = \sqrt{\sum\_{i=1}^d (u\_i - v\_i)^2}
 $$
 
 #### 3. Inner Product (Dot Product)
 Reflects both angular alignment and magnitude. Essential for models trained specifically for asymmetric retrieval where passage length or frequency weighting influences relevance.
 
-> **Key Insight:** For unit-normalized vectors ($\|u\| = \|v\| = 1$), the metrics are monotonically related:
+> **Key Insight:** For unit-normalized vectors ($\Vert u \Vert = \Vert v \Vert = 1$), the metrics are monotonically related:
 > $$
-> D_{L2}^2(u, v) = \|u\|^2 + \|v\|^2 - 2(u \cdot v) = 2 - 2 S_{\cos}(u, v)
+> D\_{L2}^2(u, v) = \Vert u \Vert^2 + \Vert v \Vert^2 - 2(u \cdot v) = 2 - 2 S\_{\cos}(u, v)
 > $$
 > Consequently, indexing normalized vectors with Dot Product yields identical ranking to Cosine Similarity at substantially higher computational throughput.
 

@@ -100,28 +100,28 @@ $$
 Vektörlerin büyüklüğünden ziyade aralarındaki açının kosinüsünü ölçer; metin uzunluğunun getirdiği büyüklük sapmalarını elimine eder:
 
 $$
-S_{\cos}(u, v) = \frac{u \cdot v}{\|u\|_2 \|v\|_2} = \frac{\sum_{i=1}^d u_i v_i}{\sqrt{\sum_{i=1}^d u_i^2} \sqrt{\sum_{i=1}^d v_i^2}}
+S\_{\cos}(u, v) = \frac{u \cdot v}{\Vert u \Vert\_2 \Vert v \Vert\_2} = \frac{\sum\_{i=1}^d u\_i v\_i}{\sqrt{\sum\_{i=1}^d u\_i^2} \sqrt{\sum\_{i=1}^d v\_i^2}}
 $$
 
-Kosinüs mesafesi sınırlıdır: $D_{\cos}(u, v) = 1 - S_{\cos}(u, v) \in [0, 2]$. Vektörler $L_2$-normalize edildiğinde ($\|u\|_2 = 1, \|v\|_2 = 1$), kosinüs benzerliği doğrudan iç çarpıma (dot product) eşitlenir:
+Kosinüs mesafesi sınırlıdır: $D\_{\cos}(u, v) = 1 - S\_{\cos}(u, v) \in [0, 2]$. Vektörler $L\_2$-normalize edildiğinde ($\Vert u \Vert\_2 = 1, \Vert v \Vert\_2 = 1$), kosinüs benzerliği doğrudan iç çarpıma (dot product) eşitlenir:
 
 $$
-S_{\cos}(u, v) = u \cdot v = \sum_{i=1}^d u_i v_i
+S\_{\cos}(u, v) = u \cdot v = \sum\_{i=1}^d u\_i v\_i
 $$
 
-#### 2. Öklid Mesafesi ($L_2$ Normu)
+#### 2. Öklid Mesafesi ($L\_2$ Normu)
 İki nokta arasındaki mutlak geometrik düz çizgi mesafesini hesaplar:
 
 $$
-D_{L2}(u, v) = \|u - v\|_2 = \sqrt{\sum_{i=1}^d (u_i - v_i)^2}
+D\_{L2}(u, v) = \Vert u - v \Vert\_2 = \sqrt{\sum\_{i=1}^d (u\_i - v\_i)^2}
 $$
 
 #### 3. İç Çarpım (Dot Product)
 Hem açısal yönelimi hem de vektör büyüklüğünü dikkate alır. Metin uzunluğu veya frekans ağırlıklarının alaka düzeyini doğrudan etkilediği asimetrik arama modellerinde tercih edilir.
 
-> **Kritik Çıkarım:** Birim normalize edilmiş vektörler için ($\|u\| = \|v\| = 1$), metrikler arasında monoton bir dönüşüm vardır:
+> **Kritik Çıkarım:** Birim normalize edilmiş vektörler için ($\Vert u \Vert = \Vert v \Vert = 1$), metrikler arasında monoton bir dönüşüm vardır:
 > $$
-> D_{L2}^2(u, v) = \|u\|^2 + \|v\|^2 - 2(u \cdot v) = 2 - 2 S_{\cos}(u, v)
+> D\_{L2}^2(u, v) = \Vert u \Vert^2 + \Vert v \Vert^2 - 2(u \cdot v) = 2 - 2 S\_{\cos}(u, v)
 > $$
 > Bu sayede normalize edilmiş vektörleri İç Çarpım (Dot Product) ile indekslemek, Kosinüs Benzerliği ile birebir aynı sıralamayı çok daha yüksek işlemci hızında üretir.
 
