@@ -273,6 +273,12 @@ function updateTOC(url, theme) {
                 "Fine-Tuning for Agentic Behavior",
                 theme
               ),
+              SubHeading(
+                "15",
+                "/ai-agents/day-15.html",
+                "Advanced Memory: Vector DBs & RAG",
+                theme
+              ),
             ],
             true
           )
@@ -404,6 +410,12 @@ function updateTOC(url, theme) {
                 "14",
                 "/tr/ai-agents/day-14.html",
                 "Ajan Davranışları İçin İnce Ayar",
+                theme
+              ),
+              SubHeading(
+                "15",
+                "/tr/ai-agents/day-15.html",
+                "İleri Düzey Bellek: Vektör DB ve RAG",
                 theme
               ),
             ],

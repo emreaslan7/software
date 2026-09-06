@@ -20,6 +20,7 @@
 - [Human-in-the-Loop (HITL) for Agent Collaboration](ai-agents/day-12.md)
 - [Agent Safety: Guardrails and Content Moderation](ai-agents/day-13.md)
 - [Introduction to Fine-Tuning for Agentic Behavior](ai-agents/day-14.md)
+- [Advanced Memory: Vector Databases and RAG](ai-agents/day-15.md)
 
 ---
 
@@ -43,6 +44,7 @@
 - [İnsan Denetiminde Ajan İş Birliği (Human-in-the-Loop - HITL)](tr/ai-agents/day-12.md)
 - [Ajan Güvenliği: Guardrails ve İçerik Moderasyonu](tr/ai-agents/day-13.md)
 - [Ajan Davranışları İçin İnce Ayara Giriş (Fine-Tuning)](tr/ai-agents/day-14.md)
+- [İleri Düzey Bellek: Vektör Veritabanları ve RAG](tr/ai-agents/day-15.md)
 
 
 
