@@ -283,6 +283,25 @@ function updateTOC(url, theme) {
             true
           )
         ),
+        SubHeading(
+          "Phase 4",
+          "",
+          "Advanced Planning & Autonomous Execution",
+          theme,
+          "13px",
+          "bold",
+          SubHeadingList(
+            [
+              SubHeading(
+                "16",
+                "/ai-agents/day-16.html",
+                "Advanced Planning: Tree of Thoughts",
+                theme
+              ),
+            ],
+            true
+          )
+        ),
       ])}
     </div>
   `;
@@ -416,6 +435,25 @@ function updateTOC(url, theme) {
                 "15",
                 "/tr/ai-agents/day-15.html",
                 "İleri Düzey Bellek: Vektör DB ve RAG",
+                theme
+              ),
+            ],
+            true
+          )
+        ),
+        SubHeading(
+          "Aşama 4",
+          "",
+          "İleri Düzey Planlama ve Otonom Yürütme",
+          theme,
+          "13px",
+          "bold",
+          SubHeadingList(
+            [
+              SubHeading(
+                "16",
+                "/tr/ai-agents/day-16.html",
+                "İleri Düzey Planlama: Tree of Thoughts",
                 theme
               ),
             ],
