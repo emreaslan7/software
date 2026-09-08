@@ -298,6 +298,12 @@ function updateTOC(url, theme) {
                 "Advanced Planning: Tree of Thoughts",
                 theme
               ),
+              SubHeading(
+                "17",
+                "/ai-agents/day-17.html",
+                "Code-Aware Engineering Agents",
+                theme
+              ),
             ],
             true
           )
@@ -454,6 +460,12 @@ function updateTOC(url, theme) {
                 "16",
                 "/tr/ai-agents/day-16.html",
                 "İleri Düzey Planlama: Tree of Thoughts",
+                theme
+              ),
+              SubHeading(
+                "17",
+                "/tr/ai-agents/day-17.html",
+                "Kod-Farkındalıklı Mühendislik Ajanı",
                 theme
               ),
             ],
