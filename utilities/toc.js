@@ -304,6 +304,12 @@ function updateTOC(url, theme) {
                 "Code-Aware Engineering Agents",
                 theme
               ),
+              SubHeading(
+                "18",
+                "/ai-agents/day-18.html",
+                "Data Analysis & SQL-Querying Agents",
+                theme
+              ),
             ],
             true
           )
@@ -466,6 +472,12 @@ function updateTOC(url, theme) {
                 "17",
                 "/tr/ai-agents/day-17.html",
                 "Kod-Farkındalıklı Mühendislik Ajanı",
+                theme
+              ),
+              SubHeading(
+                "18",
+                "/tr/ai-agents/day-18.html",
+                "Veri Analitiği ve SQL-Sorgulayan Ajanlar",
                 theme
               ),
             ],

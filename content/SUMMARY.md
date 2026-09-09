@@ -23,6 +23,7 @@
 - [Advanced Memory: Vector Databases and RAG](ai-agents/day-15.md)
 - [Advanced Planning: Task Decomposition with Tree of Thoughts](ai-agents/day-16.md)
 - [Agents for Software Engineering: A Code-Aware Agent](ai-agents/day-17.md)
+- [Agents for Data Analysis: A SQL-Querying Agent](ai-agents/day-18.md)
 
 ---
 
@@ -49,6 +50,7 @@
 - [İleri Düzey Bellek: Vektör Veritabanları ve RAG](tr/ai-agents/day-15.md)
 - [İleri Düzey Planlama: Tree of Thoughts ile Görev Ayrıştırma](tr/ai-agents/day-16.md)
 - [Yazılım Mühendisliği İçin Ajanlar: Kod-Farkındalıklı Ajan](tr/ai-agents/day-17.md)
+- [Veri Analitiği İçin Ajanlar: SQL-Sorgulayan Ajan](tr/ai-agents/day-18.md)
 
 
 
