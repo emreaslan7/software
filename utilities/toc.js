@@ -310,6 +310,12 @@ function updateTOC(url, theme) {
                 "Data Analysis & SQL-Querying Agents",
                 theme
               ),
+              SubHeading(
+                "19",
+                "/ai-agents/day-19.html",
+                "Deploying & Monitoring AI Agents",
+                theme
+              ),
             ],
             true
           )
@@ -478,6 +484,12 @@ function updateTOC(url, theme) {
                 "18",
                 "/tr/ai-agents/day-18.html",
                 "Veri Analitiği ve SQL-Sorgulayan Ajanlar",
+                theme
+              ),
+              SubHeading(
+                "19",
+                "/tr/ai-agents/day-19.html",
+                "Yapay Zeka Ajanlarının Dağıtımı ve İzlenmesi",
                 theme
               ),
             ],
