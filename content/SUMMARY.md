@@ -25,6 +25,7 @@
 - [Agents for Software Engineering: A Code-Aware Agent](ai-agents/day-17.md)
 - [Agents for Data Analysis: A SQL-Querying Agent](ai-agents/day-18.md)
 - [Deploying and Monitoring AI Agents](ai-agents/day-19.md)
+- [Capstone Project: Build an Advanced Agent](ai-agents/day-20.md)
 
 ---
 
@@ -53,6 +54,7 @@
 - [Yazılım Mühendisliği İçin Ajanlar: Kod-Farkındalıklı Ajan](tr/ai-agents/day-17.md)
 - [Veri Analitiği İçin Ajanlar: SQL-Sorgulayan Ajan](tr/ai-agents/day-18.md)
 - [Yapay Zeka Ajanlarının Dağıtımı ve İzlenmesi](tr/ai-agents/day-19.md)
+- [Capstone Projesi: İleri Düzey Ajan İnşası (RefactorForge)](tr/ai-agents/day-20.md)
 
 
 

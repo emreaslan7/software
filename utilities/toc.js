@@ -316,6 +316,12 @@ function updateTOC(url, theme) {
                 "Deploying & Monitoring AI Agents",
                 theme
               ),
+              SubHeading(
+                "20",
+                "/ai-agents/day-20.html",
+                "Capstone: Autonomous Refactor Agent",
+                theme
+              ),
             ],
             true
           )
@@ -490,6 +496,12 @@ function updateTOC(url, theme) {
                 "19",
                 "/tr/ai-agents/day-19.html",
                 "Yapay Zeka Ajanlarının Dağıtımı ve İzlenmesi",
+                theme
+              ),
+              SubHeading(
+                "20",
+                "/tr/ai-agents/day-20.html",
+                "Capstone: Otonom Refactoring Ajanı",
                 theme
               ),
             ],
