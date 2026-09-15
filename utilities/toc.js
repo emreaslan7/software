@@ -326,6 +326,25 @@ function updateTOC(url, theme) {
             true
           )
         ),
+        SubHeading(
+          "Phase 5",
+          "",
+          "Orchestration & Operations",
+          theme,
+          "13px",
+          "bold",
+          SubHeadingList(
+            [
+              SubHeading(
+                "21",
+                "/ai-agents/day-21.html",
+                "Agent Orchestration & Workflow Management",
+                theme
+              ),
+            ],
+            true
+          )
+        ),
       ])}
     </div>
   `;
@@ -502,6 +521,25 @@ function updateTOC(url, theme) {
                 "20",
                 "/tr/ai-agents/day-20.html",
                 "Capstone: Otonom Refactoring Ajanı",
+                theme
+              ),
+            ],
+            true
+          )
+        ),
+        SubHeading(
+          "Aşama 5",
+          "",
+          "Orkestrasyon ve Operasyonlar",
+          theme,
+          "13px",
+          "bold",
+          SubHeadingList(
+            [
+              SubHeading(
+                "21",
+                "/tr/ai-agents/day-21.html",
+                "Ajan Orkestrasyonu ve İş Akışı Yönetimi",
                 theme
               ),
             ],
