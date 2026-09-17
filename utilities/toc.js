@@ -341,6 +341,12 @@ function updateTOC(url, theme) {
                 "Agent Orchestration & Workflow Management",
                 theme
               ),
+              SubHeading(
+                "22",
+                "/ai-agents/day-22.html",
+                "Multi-Modal Agents: Vision & Audio",
+                theme
+              ),
             ],
             true
           )
@@ -540,6 +546,12 @@ function updateTOC(url, theme) {
                 "21",
                 "/tr/ai-agents/day-21.html",
                 "Ajan Orkestrasyonu ve İş Akışı Yönetimi",
+                theme
+              ),
+              SubHeading(
+                "22",
+                "/tr/ai-agents/day-22.html",
+                "Çok Modlu Ajanlar: Görüntü ve Ses",
                 theme
               ),
             ],
