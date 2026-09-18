@@ -28,6 +28,7 @@
 - [Capstone Project: Build an Advanced Agent](ai-agents/day-20.md)
 - [Agent Orchestration and Workflow Management](ai-agents/day-21.md)
 - [Multi-Modal Agents: Vision and Audio](ai-agents/day-22.md)
+- [Agent Security and Privacy](ai-agents/day-23.md)
 
 ---
 
@@ -59,6 +60,7 @@
 - [Capstone Projesi: İleri Düzey Ajan İnşası (RefactorForge)](tr/ai-agents/day-20.md)
 - [Ajan Orkestrasyonu ve İş Akışı Yönetimi](tr/ai-agents/day-21.md)
 - [Çok Modlu Ajanlar: Görüntü ve Ses](tr/ai-agents/day-22.md)
+- [Ajan Güvenliği ve Gizliliği](tr/ai-agents/day-23.md)
 
 
 

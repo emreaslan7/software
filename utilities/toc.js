@@ -347,6 +347,12 @@ function updateTOC(url, theme) {
                 "Multi-Modal Agents: Vision & Audio",
                 theme
               ),
+              SubHeading(
+                "23",
+                "/ai-agents/day-23.html",
+                "Agent Security & Privacy",
+                theme
+              ),
             ],
             true
           )
@@ -552,6 +558,12 @@ function updateTOC(url, theme) {
                 "22",
                 "/tr/ai-agents/day-22.html",
                 "Çok Modlu Ajanlar: Görüntü ve Ses",
+                theme
+              ),
+              SubHeading(
+                "23",
+                "/tr/ai-agents/day-23.html",
+                "Ajan Güvenliği ve Gizliliği",
                 theme
               ),
             ],
