@@ -353,6 +353,12 @@ function updateTOC(url, theme) {
                 "Agent Security & Privacy",
                 theme
               ),
+              SubHeading(
+                "24",
+                "/ai-agents/day-24.html",
+                "Cost Optimization for AI Agents",
+                theme
+              ),
             ],
             true
           )
@@ -564,6 +570,12 @@ function updateTOC(url, theme) {
                 "23",
                 "/tr/ai-agents/day-23.html",
                 "Ajan Güvenliği ve Gizliliği",
+                theme
+              ),
+              SubHeading(
+                "24",
+                "/tr/ai-agents/day-24.html",
+                "Yapay Zeka Ajanlarında Maliyet Optimizasyonu",
                 theme
               ),
             ],
