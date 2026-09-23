@@ -359,6 +359,12 @@ function updateTOC(url, theme) {
                 "Cost Optimization for AI Agents",
                 theme
               ),
+              SubHeading(
+                "25",
+                "/ai-agents/day-25.html",
+                "Agent Testing & Quality Assurance",
+                theme
+              ),
             ],
             true
           )
@@ -576,6 +582,12 @@ function updateTOC(url, theme) {
                 "24",
                 "/tr/ai-agents/day-24.html",
                 "Yapay Zeka Ajanlarında Maliyet Optimizasyonu",
+                theme
+              ),
+              SubHeading(
+                "25",
+                "/tr/ai-agents/day-25.html",
+                "Ajan Testleri ve Kalite Güvencesi",
                 theme
               ),
             ],
