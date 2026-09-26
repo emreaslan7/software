@@ -384,6 +384,12 @@ function updateTOC(url, theme) {
                 "Agent Communication Protocols",
                 theme
               ),
+              SubHeading(
+                "27",
+                "/ai-agents/day-27.html",
+                "Building Domain-Specific Agents",
+                theme
+              ),
             ],
             true
           )
@@ -626,6 +632,12 @@ function updateTOC(url, theme) {
                 "26",
                 "/tr/ai-agents/day-26.html",
                 "Ajan İletişim Protokolleri",
+                theme
+              ),
+              SubHeading(
+                "27",
+                "/tr/ai-agents/day-27.html",
+                "Alana Özgü Uzman Ajanlar İnşası",
                 theme
               ),
             ],
