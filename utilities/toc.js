@@ -369,6 +369,25 @@ function updateTOC(url, theme) {
             true
           )
         ),
+        SubHeading(
+          "Phase 6",
+          "",
+          "Domain Agents & Capstone",
+          theme,
+          "13px",
+          "bold",
+          SubHeadingList(
+            [
+              SubHeading(
+                "26",
+                "/ai-agents/day-26.html",
+                "Agent Communication Protocols",
+                theme
+              ),
+            ],
+            true
+          )
+        ),
       ])}
     </div>
   `;
@@ -588,6 +607,25 @@ function updateTOC(url, theme) {
                 "25",
                 "/tr/ai-agents/day-25.html",
                 "Ajan Testleri ve Kalite Güvencesi",
+                theme
+              ),
+            ],
+            true
+          )
+        ),
+        SubHeading(
+          "Aşama 6",
+          "",
+          "Alana Özgü Ajanlar ve Capstone",
+          theme,
+          "13px",
+          "bold",
+          SubHeadingList(
+            [
+              SubHeading(
+                "26",
+                "/tr/ai-agents/day-26.html",
+                "Ajan İletişim Protokolleri",
                 theme
               ),
             ],

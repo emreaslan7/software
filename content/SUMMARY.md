@@ -31,6 +31,7 @@
 - [Agent Security and Privacy](ai-agents/day-23.md)
 - [Cost Optimization for AI Agents](ai-agents/day-24.md)
 - [Agent Testing and Quality Assurance](ai-agents/day-25.md)
+- [Agent Communication Protocols](ai-agents/day-26.md)
 
 ---
 
@@ -65,6 +66,7 @@
 - [Ajan Güvenliği ve Gizliliği](tr/ai-agents/day-23.md)
 - [Yapay Zeka Ajanlarında Maliyet Optimizasyonu](tr/ai-agents/day-24.md)
 - [Ajan Testleri ve Kalite Güvencesi (QA)](tr/ai-agents/day-25.md)
+- [Ajan İletişim Protokolleri](tr/ai-agents/day-26.md)
 
 
 
