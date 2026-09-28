@@ -390,6 +390,12 @@ function updateTOC(url, theme) {
                 "Building Domain-Specific Agents",
                 theme
               ),
+              SubHeading(
+                "28",
+                "/ai-agents/day-28.html",
+                "Agent Performance Optimization",
+                theme
+              ),
             ],
             true
           )
@@ -638,6 +644,12 @@ function updateTOC(url, theme) {
                 "27",
                 "/tr/ai-agents/day-27.html",
                 "Alana Özgü Uzman Ajanlar İnşası",
+                theme
+              ),
+              SubHeading(
+                "28",
+                "/tr/ai-agents/day-28.html",
+                "Ajan Performans Optimizasyonu",
                 theme
               ),
             ],

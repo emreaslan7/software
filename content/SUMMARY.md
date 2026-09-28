@@ -33,6 +33,7 @@
 - [Agent Testing and Quality Assurance](ai-agents/day-25.md)
 - [Agent Communication Protocols](ai-agents/day-26.md)
 - [Building Domain-Specific Agents](ai-agents/day-27.md)
+- [Agent Performance Optimization](ai-agents/day-28.md)
 
 ---
 
@@ -69,6 +70,7 @@
 - [Ajan Testleri ve Kalite Güvencesi (QA)](tr/ai-agents/day-25.md)
 - [Ajan İletişim Protokolleri](tr/ai-agents/day-26.md)
 - [Alana Özgü Uzman Ajanlar İnşası](tr/ai-agents/day-27.md)
+- [Ajan Performans Optimizasyonu](tr/ai-agents/day-28.md)
 
 
 
